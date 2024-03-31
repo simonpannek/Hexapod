@@ -64,7 +64,7 @@
 //
 //====================================================================
 // [Include files]
-#include <WProgram.h> 
+#include <Arduino.h> 
 #include "Hex_Globals.h"
 #ifdef USEPS2
 #include <PS2X_lib.h>

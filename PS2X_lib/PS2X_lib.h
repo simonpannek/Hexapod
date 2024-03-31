@@ -73,7 +73,7 @@ GNU General Public License for more details.
 
 #ifndef PS2X_lib_h
 #define PS2X_lib_h
-#include "WProgram.h"
+#include "Arduino.h"
 
 
 #include <math.h>

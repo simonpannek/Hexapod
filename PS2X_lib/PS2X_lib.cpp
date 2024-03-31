@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdint.h>
 #include <avr/io.h>
-#include "WProgram.h"
+#include "Arduino.h"
 #include "pins_arduino.h"
 
 

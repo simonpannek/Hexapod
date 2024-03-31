@@ -38,7 +38,7 @@
 //
 //====================================================================
 
-#include <WProgram.h> 
+#include <Arduino.h> 
 #include "Hex_Globals.h"
 
 #ifdef USEXBEE

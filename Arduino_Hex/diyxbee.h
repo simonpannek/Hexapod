@@ -4,7 +4,7 @@
 //=============================================================================
 #ifndef _DIYXBEE_H_
 #define _DIYXBEE_H_
-#include <WProgram.h> 
+#include <Arduino.h> 
 
 #ifndef CXBEEPACKETTIMEOUTMS
 #define CXBEEPACKETTIMEOUTMS 250					// how long to wait for packet after we send request
